@@ -1,0 +1,1 @@
+{"options":{"autoIndexId":true},"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"name":"_id_","ns":"testdb.paths"},{"v":NumberInt(1),"unique":true,"key":{"path":NumberInt(1),"wildcard":NumberInt(1)},"name":"path_1_wildcard_1","ns":"testdb.paths","dropDups":true,"background":true}]}

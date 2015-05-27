@@ -1,0 +1,1 @@
+{"indexes":[{"v":NumberInt(1),"key":{"_id":NumberInt(1)},"name":"_id_","ns":"testdb.users"},{"v":NumberInt(1),"unique":true,"key":{"id":NumberInt(1),"type":NumberInt(1)},"name":"id_1_type_1","ns":"testdb.users","dropDups":true,"background":true}]}
